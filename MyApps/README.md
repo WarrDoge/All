@@ -1,4 +1,4 @@
-Integrator - script that makes a copy of the data base objects (GET), changes some values and pulls back (POST)
+Integrator - script that makes a copy of the data base objects (GET), changes some values and pulls back (POST)/n
 Replacer - gets the copy of db objects, changes them and updates db objects (PUT)
 StreamSpawner - just gets some params from server and then creates a range of db objects
 RicoBot - telegram bot (python/telebot) that can receive some ids via chat, post (or delete) them to server, add to data base (SQLite), 
