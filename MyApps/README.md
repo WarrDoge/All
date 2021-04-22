@@ -14,3 +14,5 @@ SkakTool - python/telethon async bot that simulates a real telegram user and com
 Unicalizator - just a simple python/moviepy script to add some static params to the video (uses telebot as UI)
 
 runner - template of bash script to check if the process is active and if not activates it
+
+OfferChecker - check db obj that contains parameterized links
